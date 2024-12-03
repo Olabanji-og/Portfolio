@@ -1,7 +1,7 @@
 <!--Section 1: Introduce your self-->
 ## ABOUT ME
 
-Hi there! I'm Anietie Etuk 🤓, a data analyst, educator, and consultant with a passion for turning data into actionable insights. With experience across sales, operations, finance, and customer service, I help businesses solve challenges and unlock growth.
+Hi there! I'm Banji Ogunyale, a dynamic data analyst and marketing expert experienced in leveraging data insights to drive impactful marketing strategies. Skilled in project management, data visualization, and campaign optimization for business growth.
 
 
 <!--Mention your top/relevant skills here - core and soft skills-->
