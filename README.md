@@ -91,7 +91,7 @@ In this course, you will learn how to analyze HR and employee data, including de
     </tr>
     <tr>
       <td>⬇️</td>
-      <td><a href=assets/Profile (1).pdf>Download my CV</a></td>
+      <td><a "https://etuk123456.github.io/portfolio1/assets/Profile (1).pdf">Download my CV</a></td>
     </tr>
     <tr>
       <td>🌐</td>
