@@ -91,7 +91,7 @@ In this course, you will learn how to analyze HR and employee data, including de
     </tr>
     <tr>
       <td>⬇️</td>
-      <td><a href="https://olabanji-og.github.io/Portfolio/portfolio1/assets/Profile (1).pdf">Download my CV</a>
+      <td><a href="https://olabanji-og.github.io/Portfolio/portfolio1/assets/My CV.pdf">Download my CV</a>
     </tr>
     <tr>
       <td>🌐</td>
