@@ -7,13 +7,13 @@ Hi there! I'm Banji Ogunyale, a dynamic data analyst and marketing expert experi
 <!--Mention your top/relevant skills here - core and soft skills-->
 ## WHAT I DO
 
-*As the Chief Analyst of SkillAhead Solutions Ltd, I provide consulting and training services for businesses and mentor aspiring analysts.*
+*As a data analyst and marketing expert, I combine analytical skills with marketing insights to drive data-driven decision-making. my role involves involves.*
 
-**- ✅ Data Analytics Consulting.**
-I provide in-depth analysis and tailored solutions to help you make data-driven decisions, optimize processes, and drive business growth. 
+**- ✅ Data Analysis.**
+I Collect, clean, and analyse large datasets to identify patterns and trends. I use tools like Excel, SQL, Python, or R to conduct statistical analyses and visualize data through dashboards or reports. 
 
-**- ✅ Staff Training & Development.**
-I offer comprehensive training programs in data analysis, visualization, and data-driven decision-making. From beginner to advanced levels. 
+**- ✅ Marketing Strategy.**
+I can use insights to fine-tune marketing campaigns, refine customer segmentation, and sharpen targeting strategies. I often engage in A/B testing, analyze customer journeys, and monitor campaign performance to ensure continuous optimization. 
 
 
 <!--Section 2: List 3-4 key projects-->
