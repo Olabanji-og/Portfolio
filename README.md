@@ -24,7 +24,7 @@ I can use insights to fine-tune marketing campaigns, refine customer segmentatio
 **HR Attrition Analysis.**
 ![image](assets/Screenshot 2024-11-09 103015.png)
 
-The sinking of the Titanic is one of the most infamous shipwrecks in history.
+.
 
 
 [Read More](https://www.linkedin.com/posts/olabanjiogunyale_its-been-an-incredible-journey-so-far-as-activity-7263477644652867584--k_b?utm_source=share&utm_medium=member_desktop)
@@ -33,17 +33,17 @@ The sinking of the Titanic is one of the most infamous shipwrecks in history.
 
 ![image](assets/AutoStyle Sales & Performance Analysis.png)
 
-On April 15, 1912, during her maiden voyage, the widely considered “unsinkable” RMS Titanic sank after colliding with an iceberg. 
+. 
 
 [Read More](https://www.linkedin.com/posts/olabanjiogunyale_its-been-an-incredible-journey-so-far-as-activity-7263477644652867584--k_b?utm_source=share&utm_medium=member_desktop)
 
-**Predictive Modeling and Hypothesis Testing using Titanic Dataset.**
+**Students Performance Analysis .**
 
-![image](assets/car.jpg)
+![image](assets/Students Performance Analysis.png)
 
-Unfortunately, there weren’t enough lifeboats for everyone onboard, resulting in the death of 1502 out of 2224 passengers and crew. 
+. 
 
-[Read More](https://www.linkedin.com/pulse/predictive-modeling-hypothesis-testing-using-titanic-dataset-anietie/)
+[Read More](https://www.linkedin.com/posts/olabanjiogunyale_project-dashboard-report-my-final-project-activity-7268240586741092352-bXJ-?utm_source=share&utm_medium=member_desktop)
 
 
 ## MY CLASSES
