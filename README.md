@@ -7,7 +7,7 @@ Hi there! I'm Banji Ogunyale, a dynamic data analyst and marketing expert experi
 <!--Mention your top/relevant skills here - core and soft skills-->
 ## WHAT I DO
 
-*As a data analyst and marketing expert, I combine analytical skills with marketing insights to drive data-driven decision-making. my role involves involves.*
+*As a data analyst and marketing expert, I combine analytical skills with marketing insights to drive data-driven decision-making. my role involves.*
 
 **- ✅ Data Analysis.**
 I Collect, clean, and analyse large datasets to identify patterns and trends. I use tools like Excel, SQL, Python, or R to conduct statistical analyses and visualize data through dashboards or reports. 
